@@ -1,7 +1,7 @@
 # Simple
 Fahri Synyster 2020
 
-Penjelasan:
+## Penjelasan:
 
 Tujuan pembuatan library ini yaitu untuk pembelajaran.
 Masih terdapat bug atau penggunaan yang tidak tepat pada library ini,
@@ -10,7 +10,7 @@ terdapat disini buatan sendiri, namun ada juga yang diambil dari
 beberapa sumber di internet. Jika ingin menambahkan, mengurangi, atau memodifikasi
 kode silakan, saya harap dengan kontribusi anda library ini menjadi lebih baik lagi.
 
-Referensi:
+## Referensi:
 
 	https://docs.microsoft.com/en-us/
 	https://en.cppreference.com/w/
@@ -21,7 +21,7 @@ Referensi:
 	https://www.youtube.com/user/TheChernoProject
 	https://www.quora.com
 
-Update terakhir:
+## Update terakhir:
 
 	10/12/2020
 		- Perbaikan kode
@@ -39,4 +39,5 @@ Update terakhir:
 		- Library dibuat
 
 Membutuhkan C++17
+
 Ditulis di Visual Studio 2019
