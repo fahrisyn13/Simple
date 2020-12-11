@@ -2,6 +2,7 @@
 Fahri Synyster 2020
 
 Penjelasan:
+
 Tujuan pembuatan library ini yaitu untuk pembelajaran.
 Masih terdapat bug atau penggunaan yang tidak tepat pada library ini,
 jadi berhati-hatilah dalam menggunakannya. Tidak semua kode yang
@@ -10,6 +11,7 @@ beberapa sumber di internet. Jika ingin menambahkan, mengurangi, atau memodifika
 kode silakan, saya harap dengan kontribusi anda library ini menjadi lebih baik lagi.
 
 Referensi:
+
 	https://docs.microsoft.com/en-us/
 	https://en.cppreference.com/w/
 	https://stackoverflow.com/
@@ -20,6 +22,7 @@ Referensi:
 	https://www.quora.com
 
 Update terakhir:
+
 	10/12/2020
 		- Perbaikan kode
 	5/12/2020
