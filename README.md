@@ -1,12 +1,12 @@
 # Simple
 Fahri Synyster 2020
-* Penjelasan:
-	Tujuan pembuatan library ini yaitu untuk pembelajaran.
-	Masih terdapat bug atau penggunaan yang tidak tepat pada library ini,
-	jadi berhati-hatilah dalam menggunakannya. Tidak semua kode yang
-	terdapat disini buatan sendiri, namun ada juga yang diambil dari
-	beberapa sumber di internet. Jika ingin menambahkan, mengurangi, atau memodifikasi
-	kode silakan, saya harap dengan kontribusi anda library ini menjadi lebih baik lagi.
+Penjelasan:
+Tujuan pembuatan library ini yaitu untuk pembelajaran.
+Masih terdapat bug atau penggunaan yang tidak tepat pada library ini,
+jadi berhati-hatilah dalam menggunakannya. Tidak semua kode yang
+terdapat disini buatan sendiri, namun ada juga yang diambil dari
+beberapa sumber di internet. Jika ingin menambahkan, mengurangi, atau memodifikasi
+kode silakan, saya harap dengan kontribusi anda library ini menjadi lebih baik lagi.
 
 Referensi:
 	https://docs.microsoft.com/en-us/
